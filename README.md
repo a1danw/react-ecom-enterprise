@@ -1,3 +1,4 @@
+missing folders - hooks, apis, types, utils,
 # Ecomm React
 
 ## Tech Stack
